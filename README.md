@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarishGajjar
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development and Python.
 - 💞️ I’m looking to collaborate with other python developers
 
 
